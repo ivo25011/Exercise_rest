@@ -1,4 +1,4 @@
-package com.amcef.Exercise_rest;
+package com.amcef.exercise_rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

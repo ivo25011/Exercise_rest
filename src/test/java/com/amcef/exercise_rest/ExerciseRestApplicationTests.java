@@ -1,4 +1,4 @@
-package com.amcef.Exercise_rest;
+package com.amcef.exercise_rest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
