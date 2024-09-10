@@ -102,6 +102,7 @@ public class ContributionController {
 
             // Check for contribution founding
             if (externalContribution != null) {
+                // If found, save to database
                 service.addContribution(externalContribution);
                 return ResponseEntity.ok(externalContribution);
             } else {
